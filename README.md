@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm ZiadNajdi</h2>
+<h2>Hey 👋, I'm Ziad Najdi</h2>
 
 <p>I'm a <strong>Software Engineering student</strong> based in 🇹🇷 Istanbul.  
 Currently learning more about databases, server-side systems, and modern software architecture.</p>
