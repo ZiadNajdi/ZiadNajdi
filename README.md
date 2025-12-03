@@ -28,8 +28,3 @@ Currently learning more about databases, server-side systems, and modern softwar
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
 </p>
 
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZiadNajdi&show_icons=true&count_private=true&theme=tokyonight" alt="ZiadNajdi" />
-
-<p><a href="#"><img src="https://hits.dwyl.com/ZiadNajdi/ZiadNajdi.svg?style=flat-square" alt="HitCount"></a></p>
