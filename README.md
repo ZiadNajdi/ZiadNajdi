@@ -6,7 +6,7 @@ Currently learning more about databases, server-side systems, and modern softwar
 <p>
 <a href="mailto:ziadnajdi03@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white" alt="Email Badge"></a>
 <a href="https://www.instagram.com/ziad.pr"><img src="https://img.shields.io/badge/-@ziad.pr-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
-<a href="https://www.linkedin.com/in/zeyad-al-nagdi"><img src="https://img.shields.io/badge/-Zeyad%20Al%20Nagdi-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/zeyad-al-nagdi-17160b227"><img src="https://img.shields.io/badge/-Zeyad%20Al%20Nagdi-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://github.com/ZiadNajdi"><img src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&labelColor=171515&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
 </p>
 
